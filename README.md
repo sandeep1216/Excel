@@ -1,7 +1,5 @@
 Excel Financial Analysis.
 
-Default (GPT-3.5)
-
 
 Use Case: Financial Performance Analysis for XYZ corp
 
